@@ -1,0 +1,32 @@
+{
+  "name": "webpack-pratice",
+  "version": "1.0.0",
+  "description": "Webpack配置练习",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lafayete/Webpack-Pratice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lafayete/Webpack-Pratice/issues"
+  },
+  "homepage": "https://github.com/lafayete/Webpack-Pratice#readme",
+  "devDependencies": {
+    "path": "^0.12.7",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "vue": "^2.6.11",
+    "vue-loader": "^15.9.0",
+    "vue-router": "^3.1.6",
+    "vue-template-compiler": "^2.6.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
