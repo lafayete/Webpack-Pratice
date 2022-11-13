@@ -20,7 +20,7 @@
   "devDependencies": {
     "path": "^0.12.7",
     "webpack": "^4.41.6",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "vue": "^2.6.11",
